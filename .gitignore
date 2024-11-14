@@ -1,0 +1,9 @@
+/test_results
+.streamlit/secrets.toml
+.env
+.venv
+/deprecated
+read.md
+blog.md
+app/orders/*
+Bildschirmfoto 2024-11-13 um 04.40.08.png
